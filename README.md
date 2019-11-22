@@ -5,6 +5,7 @@
 - **Predictive Customer analytics using python**
 
 # Python-Data-Science
+## This repository contains below mentioned chapters
 - **ch1 - Data Munging Basics**
 - **ch2 - Data Visualization**
 - **ch3 - Basic Math and Statistics**
