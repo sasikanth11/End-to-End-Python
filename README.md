@@ -4,7 +4,7 @@
 - **From basic to advanced level of data analysis using python**
 - **Predictive Customer analytics using python**
 
-# Python-Data-Science
+## Python-Data-Science
 ## This repository contains below mentioned chapters
 - **ch1 - Data Munging Basics**
 - **ch2 - Data Visualization**
