@@ -17,3 +17,6 @@
 - **ch8 - Basic algorithmic Learning**
 - **ch9 - Visualization with Ploty**
 - **ch10 - WebScraping with Beautiful Soup**
+
+
+https://nbviewer.jupyter.org/
