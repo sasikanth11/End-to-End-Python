@@ -19,4 +19,4 @@
 - **ch10 - WebScraping with Beautiful Soup**
 
 
-https://nbviewer.jupyter.org/
+[https://nbviewer.jupyter.org/ ]
