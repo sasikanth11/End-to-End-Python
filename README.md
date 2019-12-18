@@ -3,7 +3,7 @@
 - **In this repository we have all the files realted to python**
 - **From basic to advanced level of data analysis using python**
 - **Predictive Customer analytics using python**
-- **Stock Prediction using Keras
+- **Stock Prediction using Keras**
 
 ## Machine Learning interview questions
 ## Python-Data-Science
